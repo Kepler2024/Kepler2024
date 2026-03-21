@@ -1,10 +1,11 @@
-&nbsp;&nbsp;# Hi!I'm KK!
-👤&nbsp;My name is **Harry Cui Kepler** — you can call me **KK**!
+# Hi! I'm KK!
 
-💻I'm an **AI-Native Software Engineer** and a B.Sc. **Computer Science** student at a global top 100 university.
+👤 My name is **Harry Cui Kepler** — you can call me **KK**!
 
-🌏Originally from Shanghai\u00A0🇨🇳, now based in the Netherlands\u00A0🇳🇱
+💻 I'm an **AI-Native Software Engineer** and a B.Sc. **Computer Science** student at a global top 100 university.
 
-🚀Currently focused on **AI Agents** and **Full-Stack Development**, with a side interest in **C++ Competitive Programming**. I'm also working on becoming a content creator.
+🌏 Originally from Shanghai 🇨🇳, now based in the Netherlands 🇳🇱
 
-🎨Outside of coding, you'll find me sim-racing 🏁, gaming 🎮, watching anime 🇯🇵, editing videos 🎬, or out shooting photos 📷
+🚀 Currently focused on **AI Agents** and **Full-stack Development**, with a side interest in **C++ Competitive Programming**. I'm also working on becoming a content creator.
+
+🎨 Outside of coding, you'll find me sim-racing 🏁, gaming 🎮, watching anime 🇯🇵, editing videos 🎬, or out shooting photos 📷
