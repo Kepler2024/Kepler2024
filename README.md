@@ -13,7 +13,7 @@
 
 🌏 I'm originally from Shanghai 🇨🇳 and spent most time of my life there before moving to the Netherlands 🇳🇱
 
-🚀 Currently focused on **AI Agents**. Just finished an agent development at ByteDance this summer.
+🚀 Currently focused on **AI Agents**. Just finished an agent development internship at ByteDance this summer.
 
 🎨 Outside of coding, you'll find me sim-racing 🏁, gaming 🎮, watching anime 🇯🇵, editing videos 🎬, or out shooting photos 📷
 
